@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-homework-02-phonebook/static/css/main.4b851d01.chunk.css",
+    "main.js": "/react-homework-02-phonebook/static/js/main.1eb6b597.chunk.js",
+    "main.js.map": "/react-homework-02-phonebook/static/js/main.1eb6b597.chunk.js.map",
+    "runtime-main.js": "/react-homework-02-phonebook/static/js/runtime-main.a5568bcc.js",
+    "runtime-main.js.map": "/react-homework-02-phonebook/static/js/runtime-main.a5568bcc.js.map",
+    "static/js/2.fe989709.chunk.js": "/react-homework-02-phonebook/static/js/2.fe989709.chunk.js",
+    "static/js/2.fe989709.chunk.js.map": "/react-homework-02-phonebook/static/js/2.fe989709.chunk.js.map",
+    "index.html": "/react-homework-02-phonebook/index.html",
+    "precache-manifest.fe9adeaa633781bb5d46c53a6d496a30.js": "/react-homework-02-phonebook/precache-manifest.fe9adeaa633781bb5d46c53a6d496a30.js",
+    "service-worker.js": "/react-homework-02-phonebook/service-worker.js",
+    "static/css/main.4b851d01.chunk.css.map": "/react-homework-02-phonebook/static/css/main.4b851d01.chunk.css.map",
+    "static/js/2.fe989709.chunk.js.LICENSE.txt": "/react-homework-02-phonebook/static/js/2.fe989709.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5568bcc.js",
+    "static/js/2.fe989709.chunk.js",
+    "static/css/main.4b851d01.chunk.css",
+    "static/js/main.1eb6b597.chunk.js"
+  ]
+}
